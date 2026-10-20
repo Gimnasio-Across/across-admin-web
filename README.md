@@ -51,7 +51,7 @@ across-admin-web/
 │   ├── App.tsx               # Enrutador y árbol principal de componentes
 │   ├── index.css             # Directivas Tailwind y estilos globales
 │   └── main.tsx              # Renderizado inicial en el DOM
-├── .cursorrules              # Reglas de desarrollo estrictas para pair-programming
+├── RULES.md                  # Reglas de desarrollo estrictas para pair-programming
 ├── index.html                # Plantilla HTML con precarga de Google Fonts
 ├── package.json              # Dependencias y scripts
 ├── tailwind.config.js         # Tokens de tipografía y colores de marca
@@ -87,4 +87,4 @@ Genera la carpeta optimizada `dist/` lista para despliegue.
 ---
 
 ## 🛡️ Reglas de Desarrollo
-Consulta [.cursorrules](file:///c:/Users/usuario/Desktop/proyecto%20ACROSS/repos%20across/across-admin-web/.cursorrules) para cumplir las directrices de nomenclatura en español, componentización funcional estricta, TypeScript sin `any` y arquitectura DRY.
+Consulta [RULES.md](file:///c:/Users/usuario/Desktop/proyecto%20ACROSS/repos%20across/across-admin-web/RULES.md) para cumplir las directrices de nomenclatura en español, componentización funcional estricta, TypeScript sin `any` y arquitectura DRY.
